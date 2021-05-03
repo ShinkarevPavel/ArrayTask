@@ -1,0 +1,226 @@
+2021-04-08 22:35:08 INFO  ReaderFile -File errordata\fil.txt
+2021-04-08 22:35:08 INFO  LineValidator -Issue with provided content
+2021-04-12 21:30:46 INFO  ReaderFile -File errordata\data\file.txt
+2021-04-12 22:39:26 INFO  ReaderFile -File errorresources\file.txt
+2021-04-12 22:42:47 INFO  ReaderFile -File errorresources\file.txt
+2021-04-12 22:43:21 INFO  ReaderFile -File errorresources\file.txt
+2021-04-12 22:43:34 INFO  ReaderFile -File errorsrc\resources\file.txt
+2021-04-12 22:45:06 INFO  ReaderFile -File errorsrc\resources\file.txt
+2021-04-12 22:45:28 INFO  ReaderFile -File errorresources\file.txt
+2021-04-12 22:45:50 INFO  ReaderFile -File error resources\file.txt
+2021-04-12 22:46:53 INFO  ReaderFile -File error Task1\src\main.education\resources\file.txt
+2021-04-12 22:47:06 INFO  ReaderFile -File error Task1\src\main.education\resources\file.txt
+2021-04-12 22:47:19 INFO  ReaderFile -File error resources\file.txt
+2021-04-12 22:49:26 INFO  ReaderFile -File error resources\file.txt
+2021-04-12 22:50:00 INFO  ReaderFile -File error resources\file.txt
+2021-04-12 22:50:12 INFO  ReaderFile -File error src\resources\file.txt
+2021-04-12 22:50:31 INFO  ReaderFile -File error main.education\resources\file.txt
+2021-04-12 22:57:36 INFO  ReaderFile -File error resources\file.txt
+2021-04-12 23:02:51 INFO  ReaderFile -File error resources\file.txt
+2021-04-12 23:06:08 INFO  ReaderFile -File error resources\file.txt
+2021-04-12 23:10:05 INFO  ReaderFile -File error src\main.education\resources\resources\file.txt
+2021-04-12 23:10:23 INFO  ReaderFile -File error src\main.education\resources\resources\file.txt
+2021-04-12 23:11:07 INFO  ReaderFile -File error resources\file.txt
+2021-04-12 23:11:15 INFO  ReaderFile -File error resources\file.txt
+2021-04-12 23:12:04 INFO  ReaderFile -File error .\resources\file.txt
+2021-04-12 23:12:53 INFO  ReaderFile -File error .\src\ducation\resources\file.txt
+2021-04-12 23:13:19 INFO  ReaderFile -File error .\resources\file.txt
+2021-04-12 23:41:01 INFO  ReaderFile -File error null
+2021-04-14 22:52:18 INFO  StreamServiceImpl -Successful. Number of negative elements values is 3
+2021-04-15 19:41:40 INFO  ServiceSortImpl -Array was sorted [25, 15, 4, 1, 0, 0, -1, -7]
+2021-04-15 19:41:40 INFO  ServiceSortImpl -Array was sorted [25, 15, 4, 1, 0, 0, -1, -7]
+2021-04-15 19:41:40 INFO  ServiceSortImpl -Array was sorted [25, 15, 4, 1, 0, 0, -1, -7]
+2021-04-15 19:41:51 INFO  ServiceImpl -Successful. Average value is -2
+2021-04-15 19:41:51 INFO  ServiceImpl -Successful. Min value is 15
+2021-04-15 19:41:51 INFO  ServiceImpl -Successful. Min value is -25
+2021-04-15 19:41:51 INFO  ServiceImpl -Successful. Number of negative elements values is 2
+2021-04-15 19:41:51 INFO  ServiceImpl -Successful. Number of positive elements values is 2
+2021-04-15 19:41:51 INFO  ServiceImpl -Successful. Sum value is -13
+2021-04-15 19:41:51 INFO  ServiceImpl -Successful. New changed array is [0, 15, 0, 4, 0]
+2021-04-15 19:42:00 INFO  StreamServiceImpl -Successful. Min value is -7
+2021-04-15 19:42:35 INFO  StreamServiceImpl -Successful. Min value is -7
+2021-04-15 19:42:35 INFO  StreamServiceImpl -Successful. Min value is -7
+2021-04-15 19:42:44 INFO  StreamServiceImpl -Successful. Min value is -7
+2021-04-15 19:42:44 INFO  StreamServiceImpl -Successful. Min value is -7
+2021-04-15 19:42:58 INFO  StreamServiceImpl -Successful. Min value is -7
+2021-04-15 19:42:58 INFO  StreamServiceImpl -Successful. Min value is -7
+2021-04-15 19:43:17 INFO  StreamServiceImpl -Successful. Max value is 25
+2021-04-15 19:43:17 INFO  StreamServiceImpl -Successful. Min value is -7
+2021-04-15 19:46:08 INFO  StreamServiceImpl -Successful. Replaced array is [0, 15, 0, 0, 4, 25, 0, 1]
+2021-04-15 19:46:08 INFO  StreamServiceImpl -Successful. Max value is 25
+2021-04-15 19:46:08 INFO  StreamServiceImpl -Successful. Min value is -7
+2021-04-15 19:51:06 INFO  StreamServiceImpl -Successful. Max value is 25
+2021-04-15 19:51:06 INFO  StreamServiceImpl -Successful. Min value is -7
+2021-04-15 19:52:40 INFO  StreamServiceImpl -Successful. Replaced array is [0, 15, 0, 0, 4, 25, 0, 1]
+2021-04-15 19:52:40 INFO  StreamServiceImpl -Successful. Max value is 25
+2021-04-15 19:52:40 INFO  StreamServiceImpl -Successful. Min value is -7
+2021-04-15 19:54:22 INFO  StreamServiceImpl -Successful. Replaced array is [0, 15, 0, 0, 4, 25, 0, 1]
+2021-04-15 19:54:22 INFO  StreamServiceImpl -Successful. Max value is 25
+2021-04-15 19:54:22 INFO  StreamServiceImpl -Successful. Min value is -7
+2021-04-15 20:00:45 INFO  ServiceImpl -Successful. Average value is -2
+2021-04-15 20:00:45 INFO  ServiceImpl -Successful. Min value is 15
+2021-04-15 20:00:45 INFO  ServiceImpl -Successful. Min value is -25
+2021-04-15 20:00:45 INFO  ServiceImpl -Successful. Number of negative elements values is 2
+2021-04-15 20:00:45 INFO  ServiceImpl -Successful. Number of positive elements values is 2
+2021-04-15 20:00:45 INFO  ServiceImpl -Successful. Sum value is -13
+2021-04-15 20:00:45 INFO  ServiceImpl -Successful. New changed array is [0, 15, 0, 4, 0]
+2021-04-15 20:05:25 INFO  ServiceImpl -Successful. Average value is -2
+2021-04-15 20:05:25 INFO  ServiceImpl -Successful. Min value is 15
+2021-04-15 20:05:25 INFO  ServiceImpl -Successful. Min value is -25
+2021-04-15 20:05:25 INFO  ServiceImpl -Successful. Number of negative elements values is 2
+2021-04-15 20:05:25 INFO  ServiceImpl -Successful. Number of positive elements values is 2
+2021-04-15 20:05:25 INFO  ServiceImpl -Successful. Sum value is -13
+2021-04-15 20:05:25 INFO  ServiceImpl -Successful. New changed array is [0, 15, 0, 4, 0]
+2021-04-15 20:05:29 INFO  ServiceImpl -Successful. Average value is -2
+2021-04-15 20:06:16 INFO  ServiceImpl -Successful. Average value is -2.6
+2021-04-15 20:15:39 INFO  StreamServiceImpl -Successful. Average value is 4.625
+2021-04-15 20:15:39 INFO  StreamServiceImpl -Successful. Replaced array is [0, 15, 0, 0, 4, 25, 0, 1]
+2021-04-15 20:15:39 INFO  StreamServiceImpl -Successful. Max value is 25
+2021-04-15 20:15:39 INFO  StreamServiceImpl -Successful. Min value is -7
+2021-04-15 20:15:39 INFO  StreamServiceImpl -Successful. Sum value is 37
+2021-04-15 20:17:24 INFO  StreamServiceImpl -Successful. Average value is 4.625
+2021-04-15 20:17:24 INFO  StreamServiceImpl -Successful. Replaced array is [0, 15, 0, 0, 4, 25, 0, 1]
+2021-04-15 20:17:24 INFO  StreamServiceImpl -Successful. Max value is 25
+2021-04-15 20:17:24 INFO  StreamServiceImpl -Successful. Min value is -7
+2021-04-15 20:17:24 INFO  StreamServiceImpl -Successful. Sum value is 37
+2021-04-15 20:19:30 INFO  StreamServiceImpl -Successful. Average value is 4.625
+2021-04-15 20:19:30 INFO  StreamServiceImpl -Successful. Replaced array is [0, 15, 0, 0, 4, 25, 0, 1]
+2021-04-15 20:19:30 INFO  StreamServiceImpl -Successful. Max value is 25
+2021-04-15 20:19:30 INFO  StreamServiceImpl -Successful. Min value is -7
+2021-04-15 20:19:30 INFO  StreamServiceImpl -Successful. Number of negative elements values is 2
+2021-04-15 20:19:30 INFO  StreamServiceImpl -Successful. Number of positive elements values is 4
+2021-04-15 20:19:30 INFO  StreamServiceImpl -Successful. Sum value is 37
+2021-04-15 21:04:26 INFO  StreamSortImpl -Array was sorted by IntStream [25, 15, 4, 1, 0, 0, -1, -7]
+2021-04-15 21:05:07 INFO  StreamSortImpl -Array was sorted by IntStream [25, 15, 4, 1, 0, 0, -1, -7]
+2021-04-15 22:09:03 INFO  LineValidator -Valid string was find 78 -2 1 2 -77 8 4   0 14 7 0   -98
+2021-04-15 22:10:12 INFO  LineValidator -Valid string was find 78 -2 1 2 -77 8 4   0 14 7 0   -98
+2021-04-15 22:16:13 INFO  LineValidator -Valid string was not find
+2021-04-15 22:16:13 INFO  LineValidator -Valid string was find 78 -2 1 2 -77 8 4   0 14 7 0   -98
+2021-04-15 22:23:06 INFO  LineValidator -Valid string was not find
+2021-04-15 22:23:06 INFO  LineValidator -Valid string was find 78 -2 1 2 -77 8 4   0 14 7 0   -98
+2021-04-15 22:23:17 INFO  ReaderFile -File error src\test\main.education\recources\file.txt
+2021-04-15 22:24:27 INFO  ReaderFile -File error .\src\test\main.education\recources\file.txt
+2021-04-15 22:24:58 INFO  ReaderFile -File error .\src\test\main.education\epam\recources\file.txt
+2021-04-15 22:25:09 INFO  ReaderFile -File error src\test\main.education\epam\recources\file.txt
+2021-04-15 22:25:35 INFO  ReaderFile -Successful. File was read
+2021-04-15 23:02:18 INFO  ServiceImpl -Successful. Average value is -2.6
+2021-04-15 23:02:18 INFO  ServiceImpl -Successful. Min value is 15
+2021-04-15 23:02:18 INFO  ServiceImpl -Successful. Min value is -25
+2021-04-15 23:02:18 INFO  ServiceImpl -Successful. Number of negative elements values is 2
+2021-04-15 23:02:18 INFO  ServiceImpl -Successful. Number of positive elements values is 2
+2021-04-15 23:02:18 INFO  ServiceImpl -Successful. Sum value is -13
+2021-04-15 23:02:18 INFO  ServiceImpl -Successful. New changed array is [0, 15, 0, 4, 0]
+2021-04-15 23:04:56 INFO  ReaderFile -File error src\test\recourses\file.txt
+2021-04-15 23:05:15 INFO  ReaderFile -File error .\src\test\recourses\file.txt
+2021-04-15 23:06:01 INFO  ReaderFile -File error .\src\test\recourses\file.txt
+2021-04-15 23:06:25 INFO  ReaderFile -Successful. File was read
+2021-04-15 23:07:22 INFO  ReaderFile -Successful. File was read
+2021-04-15 23:08:16 INFO  ReaderFile -Successful. File was read
+2021-04-15 23:16:01 INFO  ReaderFile -Successful. File was readed
+2021-04-15 23:17:03 INFO  ReaderFile -Successful. File was readed
+2021-04-15 23:20:21 INFO  ReaderFile -Successful. File was readed
+2021-04-15 23:27:45 INFO  ReaderFile -Successful. File was readed
+2021-04-15 23:34:13 INFO  ReaderFile -Successful. File was readed
+2021-04-15 23:42:24 INFO  ReaderFile -Successful. File was readed
+2021-04-15 23:42:45 INFO  ReaderFile -Successful. File was readed
+2021-04-15 23:43:07 INFO  ReaderFile -Successful. File was readed
+2021-04-15 23:45:06 INFO  ReaderFile -Successful. File was readed
+2021-04-15 23:45:15 INFO  ReaderFile -Successful. File was readed
+2021-04-15 23:45:30 INFO  ReaderFile -Successful. File was readed
+2021-04-15 23:50:26 INFO  ReaderFile -Successful. File was readed
+2021-04-15 23:51:16 INFO  ReaderFile -Successful. File was readed
+2021-04-15 23:52:32 INFO  ReaderFile -Successful. File was readed
+2021-04-15 23:52:36 INFO  ReaderFile -Successful. File was readed
+2021-04-15 23:54:04 INFO  ReaderFile -Successful. File was readed
+2021-04-15 23:57:14 INFO  ReaderFile -Successful. File was readed
+2021-04-15 23:57:51 INFO  ReaderFile -Successful. File was readed
+2021-04-16 00:05:48 INFO  ReaderFile -Successful. File was readed
+2021-04-16 00:06:18 INFO  ReaderFile -Successful. File was readed
+2021-04-16 00:08:48 INFO  ReaderFile -Successful. File was readed
+2021-04-16 00:09:14 INFO  ReaderFile -Successful. File was readed
+2021-04-16 00:09:30 INFO  ReaderFile -Successful. File was readed
+2021-04-16 00:11:01 INFO  ReaderFile -Successful. File was readed
+2021-04-16 00:20:22 INFO  ReaderFile -Successful. File was readed
+2021-04-16 00:21:03 INFO  ReaderFile -Successful. File was readed
+2021-04-16 00:21:22 INFO  ReaderFile -Successful. File was readed
+2021-04-16 00:21:59 INFO  ReaderFile -Successful. File was readed
+2021-04-16 00:22:19 INFO  ReaderFile -Successful. File was readed
+2021-04-16 00:22:44 INFO  ReaderFile -Successful. File was readed
+2021-04-16 00:23:05 INFO  ReaderFile -Successful. File was readed
+2021-04-16 00:23:37 INFO  ReaderFile -Successful. File was readed
+2021-04-16 00:24:12 INFO  ReaderFile -Successful. File was readed
+2021-04-16 00:26:22 INFO  ReaderFile -Successful. File was readed
+2021-04-16 00:26:33 INFO  ReaderFile -Successful. File was readed
+2021-04-16 08:24:17 INFO  ReaderFile -Successful. File was readed
+2021-04-16 08:24:27 INFO  ReaderFile -Successful. File was readed
+2021-04-16 08:24:32 INFO  ReaderFile -Successful. File was readed
+2021-04-16 09:37:46 INFO  ReaderFile -Successful. File was readed
+2021-04-16 09:37:46 INFO  ReaderFile -File error src\test\resources\wrongFile.txt
+2021-04-16 09:38:09 INFO  ReaderFile -Successful. File was readed
+2021-04-16 09:38:09 INFO  ReaderFile -File error src\test\resources\wrongFile.txt
+2021-04-16 09:39:57 INFO  ReaderFile -Successful. File was read
+2021-04-16 10:03:37 INFO  LineValidator -Valid string was not find
+2021-04-16 10:03:37 INFO  LineValidator -Valid string was find 78 -2 1 2 -77 8 4   0 14 7 0   -98
+2021-04-16 20:28:04 INFO  ArrayParser -Provided string is null
+2021-04-16 20:30:12 INFO  ArrayParser -Provided string is null
+2021-04-16 20:32:03 INFO  ArrayParser -Provided string is null
+2021-04-16 20:56:50 INFO  ArrayParser -Provided string is null
+2021-04-16 20:57:04 INFO  ArrayParser -Provided string is null
+2021-04-16 21:31:23 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:32:18 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:34:24 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:36:10 INFO  ArrayParser -Provided string is null
+2021-04-16 21:36:10 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:37:40 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:40:52 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:42:09 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:42:19 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:42:49 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:44:40 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:47:58 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:47:58 INFO  LineValidator -Valid string was find 78,  -2 -  1! 2 -77 8 4   0 14 7 0   -98
+2021-04-16 21:50:01 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:51:05 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:51:17 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:52:09 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:52:27 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:52:34 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:53:22 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:53:22 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:53:58 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:54:31 INFO  ArrayParser -Successful. Array was created
+2021-04-16 21:57:43 INFO  LineValidator -Valid string was not find
+2021-04-16 21:57:43 INFO  LineValidator -Valid string was find 78 -2 1 2 -77 8 4   0 14 7 0   -98
+2021-04-16 21:59:01 INFO  LineValidator -Valid string was not find
+2021-04-16 21:59:01 INFO  LineValidator -Valid string was find 78 -2 1 2 -77 8 4   0 14 7 0   -98
+2021-04-16 21:59:04 INFO  ArrayParser -Successful. Array was created
+2021-04-16 22:02:12 INFO  ArrayParser -Successful. Array was created
+2021-04-16 22:02:27 INFO  ArrayParser -Successful. Array was created
+2021-04-16 22:03:33 INFO  ArrayParser -Successful. Array was created
+2021-04-16 22:04:42 INFO  ArrayParser -Successful. Array was created
+2021-04-16 22:05:56 INFO  ArrayParser -Successful. Array was created
+2021-04-16 22:06:42 INFO  ArrayParser -Successful. Array was created
+2021-04-16 22:07:21 INFO  ArrayParser -Successful. Array was created
+2021-04-16 22:16:55 INFO  ContentParser -Successful. String was find
+2021-04-16 22:17:14 INFO  ContentParser -Successful. String was find
+2021-04-16 22:18:32 INFO  ContentParser -Successful. String was find
+2021-04-16 22:44:19 INFO  LineValidator -Valid string was not find
+2021-04-16 22:44:19 INFO  LineValidator -Valid string was find 78 -2 1 2 -77 8 4   0 14 7 0   -98
+2021-04-16 22:44:38 INFO  ArrayParser -Successful. Array was created
+2021-04-16 22:45:53 INFO  ContentParser -Successful. String was find
+2021-04-16 22:52:17 INFO  ContentParser -Successful. String was find
+2021-04-16 22:55:22 INFO  ContentParser -Successful. String was find
+2021-04-16 22:55:22 INFO  ContentParser -Valid string was not found
+2021-04-16 22:57:26 INFO  StreamSortImpl -Array was sorted by IntStream [25, 15, 4, 1, 0, 0, -1, -7]
+2021-04-16 23:30:55 INFO  ReaderFile -Successful. File was read
+2021-04-16 23:38:56 INFO  ContentParser -Successful. String was find
+2021-04-16 23:38:56 INFO  ContentParser -Valid string was not found
+2021-04-16 23:39:02 INFO  ArrayParser -Successful. Array was created
+2021-04-16 23:39:12 INFO  ReaderFile -Successful. File was read
+2021-04-16 23:40:35 INFO  LineValidator -Valid string was not find
+2021-04-16 23:40:35 INFO  LineValidator -Valid string was find 78 -2 1 2 -77 8 4   0 14 7 0   -98
+2021-04-16 23:44:55 INFO  ReaderFile -Successful. File was read
+2021-04-16 23:44:59 INFO  ReaderFile -Successful. File was read
+2021-04-17 00:08:12 INFO  ArrayParser -Successful. Array was created
+2021-04-17 00:08:32 INFO  ReaderFile -Successful. File was read
+2021-04-17 00:13:08 INFO  ReaderFile -Successful. File was read
